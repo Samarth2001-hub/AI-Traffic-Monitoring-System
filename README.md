@@ -1,4 +1,9 @@
 # AI Traffic Monitoring System
+##  Demo Video
+
+Project demonstration video:
+
+[Download Demo Video](AI_Traffic_Monitoring_demo.mp4)
 
 ## Project Demonstration
 
