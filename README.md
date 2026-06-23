@@ -1,41 +1,56 @@
 # AI Traffic Monitoring System
 
+## Project Demonstration
+
+### Vehicle Detection System
+
+![Vehicle Detection](vehicle_detection.png)
+
+### Dashboard Overview
+
+![Dashboard Overview](dashboard_overview.png)
+
+### Analytics Dashboard
+
+![Analytics Dashboard](dashboard_analytics.png)
+
+### Traffic Records
+
+![Traffic Records](dashboard_records.png)
+
+
+
 ## Overview
 
 An intelligent traffic monitoring and analytics system developed using YOLOv8, OpenCV, Python, and Streamlit.
 
-The system performs real-time vehicle detection, classification, traffic density estimation, and data analytics from traffic video streams. It automatically identifies different vehicle categories, generates traffic statistics, and visualizes traffic patterns through an interactive dashboard.
+The system performs real-time vehicle detection, classification, traffic density estimation, and data analytics from traffic video streams.
 
-This project demonstrates the practical application of Artificial Intelligence, Computer Vision, and Data Analytics for smart city traffic management and transportation monitoring.
+This project demonstrates practical applications of:
+
+- Artificial Intelligence
+- Computer Vision
+- Data Analytics
+- Smart Traffic Monitoring
+- Intelligent Transportation Systems
 
 
 
 ## Key Features
 
- Real-Time Vehicle Detection using YOLOv8
-
- Vehicle Classification
-- Cars
-- Motorcycles
-- Buses
-- Trucks
-
- Traffic Density Analysis
-- Low Traffic
-- Medium Traffic
-- High Traffic
-
- Automated Vehicle Counting
-
- Traffic Data Collection and Storage
-
- Interactive Streamlit Dashboard
-
- Vehicle Trend Analysis
-
- Vehicle Distribution Visualization
-
- Real-Time Traffic Status Monitoring
+- Real-Time Vehicle Detection using YOLOv8
+  
+- Vehicle Classification
+  - Cars
+  - Motorcycles
+  - Buses
+  - Trucks
+    
+- Traffic Density Analysis
+- Traffic Congestion Monitoring
+- Interactive Streamlit Dashboard
+- Data Visualization and Analytics
+- Traffic Records Storage using CSV
 
 
 
@@ -57,63 +72,3 @@ This project demonstrates the practical application of Artificial Intelligence, 
 - Urban Traffic Analysis
 - Traffic Congestion Monitoring
 - AI-Based Surveillance Systems
-
-
-
-## Results
-
-The system successfully detects and classifies vehicles from traffic video feeds, generates traffic analytics, estimates congestion levels, and provides real-time visual insights through an interactive dashboard.
-
-
-
-## Future Enhancements
-
-- License Plate Recognition
-- Traffic Violation Detection
-- Vehicle Speed Estimation
-- Emergency Vehicle Detection
-- Cloud-Based Deployment
-- Real-Time Camera Integration
-
-
-
-## Author
-
-Samarth Kumar Singh
-
-B.Tech Computer Science & Engineering
-
-Amity University Kolkata
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
