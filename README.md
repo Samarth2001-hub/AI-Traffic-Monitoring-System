@@ -3,7 +3,7 @@
 
 Project demonstration video:
 
-[Download Demo Video](AI_Traffic_Monitoring_demo.mp4)
+[Download Demo Video](AI_Traffic_Monitoring_Demo.mp4)
 
 ## Project Demonstration
 
